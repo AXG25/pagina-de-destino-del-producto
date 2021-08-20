@@ -1,0 +1,52 @@
+main{
+    text-align: center;
+}
+
+.navbar{
+    position:fixed;
+    z-index:1;
+    width: 100%;
+}
+
+main #top{
+    padding-top:100px;
+}
+
+#gmail{
+    margin-bottom:30px;
+    width:40%;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+
+#go{
+    border: solid 1px black;
+    width:20%;
+    background-color: black;
+    color: white;
+}
+
+#caracteristicas{
+    display: inline-block;
+    text-align: justify;
+    
+    
+}
+
+.fass{
+    margin-right:100px;
+}
+
+#precios{
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    margin:45px;
+}
+
+.card{
+    margin:15px;
+    border: solid 1px black;
+    border-radius: 1px
+    
+}
